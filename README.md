@@ -12,7 +12,7 @@ Data Sets:
 
 ## Business Understanding
 
-We'll be looking to answer the following questions to help us better understand the layout of the movie industry. This will help us provide clear and succicnt guidance for Microsoft's movie endeavor. 
+We'll be looking to answer the following questions to help us better understand the layout of the movie industry. This will help us provide clear and succinct guidance for Microsoft's movie endeavor. 
 
 * Are there genres more popular than others?
 * Does runtime matter?
